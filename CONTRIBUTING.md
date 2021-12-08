@@ -2,10 +2,10 @@
 
 To add a new repository to the solutions list add a new entry like this for GitHub-hosted repos:
 
-    * [username/repo]
+    - [username/repository](https://github.com/username/repository) ![Last commit](https://img.shields.io/github/last-commit/username/repository?style=flat-square)
 
 or like this for non-GH repos:
 
-    * [username/repo](https://somewhere-else.com/username/repo)
+    - [username/repository](https://somewhere-else.com/username/repository)
 
 Repositories not hosted on GitHub are fine, but they won't have a "last commit" badge.
