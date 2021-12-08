@@ -1,0 +1,23 @@
+# 🎅🎄 Awesome adventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+> 25 días de retos con JavaScript
+
+## 🦠 2021
+
+### 🧑‍💻 Solutions
+
+> ⚠️ **WARNING**: All of these likely contain spoilers.
+
+- [flipasg/adventjs](https://github.com/flipasg/adventjs) ![Last commit](https://img.shields.io/github/last-commit/flipasg/adventjs?style=flat-square)
+- [tomtobac/adventjs](https://github.com/tomtobac/adventjs) ![Last commit](https://img.shields.io/github/last-commit/tomtobac/adventjs?style=flat-square)
+- [chebetos/adventjs](https://github.com/chebetos/adventjs) ![Last commit](https://img.shields.io/github/last-commit/chebetos/adventjs?style=flat-square)
+- [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
+- [adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
+
+## 🤝 Contributing
+
+Read CONTRIBUTING.md to learn how to add your own repos.
+
+### 🫂 Contributors
+
+![Contributors](https://contrib.rocks/image?repo=borjapazr/awesome-adventjs)
