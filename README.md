@@ -13,6 +13,7 @@
 - [chebetos/adventjs](https://github.com/chebetos/adventjs) ![Last commit](https://img.shields.io/github/last-commit/chebetos/adventjs?style=flat-square)
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
+- [daviidmm/adventjs](https://github.com/daviidmm/adventjs) ![Last commit](https://img.shields.io/github/last-commit/daviidmm/adventjs?style=flat-square)
 
 ## 🤝 Contributing
 
