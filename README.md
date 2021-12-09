@@ -19,7 +19,7 @@
 
 ## 🤝 Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your own repos.
+Just fork, read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your own repos and open a pull request.
 
 ### ⭐ Stargazers
 
