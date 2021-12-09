@@ -19,6 +19,6 @@
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your own repos.
 
-### 🐱‍🏍 Contributors
+### ✨ Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=borjapazr/awesome-adventjs)
