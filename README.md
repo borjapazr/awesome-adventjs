@@ -8,6 +8,7 @@
 
 > ⚠️ **WARNING**: All of these likely contain spoilers.
 
+- [aanton/adventjs](https://github.com/aanton/adventjs) ![Last commit](https://img.shields.io/github/last-commit/aanton/adventjs?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [chebetos/adventjs](https://github.com/chebetos/adventjs) ![Last commit](https://img.shields.io/github/last-commit/chebetos/adventjs?style=flat-square)
 - [daviidmm/adventjs](https://github.com/daviidmm/adventjs) ![Last commit](https://img.shields.io/github/last-commit/daviidmm/adventjs?style=flat-square)
