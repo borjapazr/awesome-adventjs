@@ -20,6 +20,10 @@
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your own repos.
 
+### ⭐ Stargazers
+
+[![Stargazers repo roster for @borjapazr/awesome-adventjs](https://reporoster.com/stars/borjapazr/awesome-adventjs)](https://github.com/borjapazr/awesome-adventjs/stargazers)
+
 ### ✨ Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=borjapazr/awesome-adventjs)
