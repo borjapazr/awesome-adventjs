@@ -27,4 +27,4 @@ Just fork, read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your own 
 
 ### ✨ Contributors
 
-![Contributors](https://contrib.rocks/image?repo=borjapazr/awesome-adventjs)
+[![Contributors](https://contrib.rocks/image?repo=borjapazr/awesome-adventjs)](https://github.com/borjapazr/awesome-adventjs/graphs/contributors)
