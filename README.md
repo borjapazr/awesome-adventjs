@@ -18,6 +18,7 @@
 - [pmareke/adventJS](https://github.com/pmareke/adventJS) ![Last commit](https://img.shields.io/github/last-commit/pmareke/adventJS?style=flat-square)
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [tomtobac/adventjs](https://github.com/tomtobac/adventjs) ![Last commit](https://img.shields.io/github/last-commit/tomtobac/adventjs?style=flat-square)
+- [oddbytes/adventjs](https://github.com/oddbytes/adventjs) ![Last commit](https://img.shields.io/github/last-commit/oddbytes/adventjs?style=flat-square)
 
 ## 🤝 Contributing
 
