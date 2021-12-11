@@ -1,4 +1,4 @@
-# 🎅🎄 Awesome adventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🎅🎄 Awesome adventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 🧑‍🚀 25 días de retos con JavaScript • **[adventJS](https://adventjs.dev)** 🚀
 
@@ -15,10 +15,10 @@
 - [erickgtzh/adventjs](https://github.com/erickgtzh/adventjs) ![Last commit](https://img.shields.io/github/last-commit/erickgtzh/adventjs?style=flat-square)
 - [flipasg/adventjs](https://github.com/flipasg/adventjs) ![Last commit](https://img.shields.io/github/last-commit/flipasg/adventjs?style=flat-square)
 - [monicatvera/25-retos-adventJS](https://github.com/monicatvera/25-retos-adventJS) ![Last commit](https://img.shields.io/github/last-commit/monicatvera/25-retos-adventJS?style=flat-square)
+- [oddbytes/adventjs](https://github.com/oddbytes/adventjs) ![Last commit](https://img.shields.io/github/last-commit/oddbytes/adventjs?style=flat-square)
 - [pmareke/adventJS](https://github.com/pmareke/adventJS) ![Last commit](https://img.shields.io/github/last-commit/pmareke/adventJS?style=flat-square)
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [tomtobac/adventjs](https://github.com/tomtobac/adventjs) ![Last commit](https://img.shields.io/github/last-commit/tomtobac/adventjs?style=flat-square)
-- [oddbytes/adventjs](https://github.com/oddbytes/adventjs) ![Last commit](https://img.shields.io/github/last-commit/oddbytes/adventjs?style=flat-square)
 
 ## 🤝 Contributing
 
