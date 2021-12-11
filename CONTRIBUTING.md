@@ -1,6 +1,6 @@
 # 🤝 Contributing
 
-To add a new repository to the solutions list add a new entry like this for GitHub-hosted repos:
+To add a new repository to the solutions list add a new entry like this for GitHub-hosted repos (sorted alphabetically, please 🙏):
 
     - [username/repository](https://github.com/username/repository) ![Last commit](https://img.shields.io/github/last-commit/username/repository?style=flat-square)
 

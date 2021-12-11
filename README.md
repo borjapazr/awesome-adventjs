@@ -14,13 +14,13 @@
 - [daviidmm/adventjs](https://github.com/daviidmm/adventjs) ![Last commit](https://img.shields.io/github/last-commit/daviidmm/adventjs?style=flat-square)
 - [erickgtzh/adventjs](https://github.com/erickgtzh/adventjs) ![Last commit](https://img.shields.io/github/last-commit/erickgtzh/adventjs?style=flat-square)
 - [flipasg/adventjs](https://github.com/flipasg/adventjs) ![Last commit](https://img.shields.io/github/last-commit/flipasg/adventjs?style=flat-square)
+- [juanpomares/Exercises-AdventJS](https://github.com/juanpomares/Exercises-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpomares/Exercises-AdventJS?style=flat-square)
 - [monicatvera/25-retos-adventJS](https://github.com/monicatvera/25-retos-adventJS) ![Last commit](https://img.shields.io/github/last-commit/monicatvera/25-retos-adventJS?style=flat-square)
 - [oddbytes/adventjs](https://github.com/oddbytes/adventjs) ![Last commit](https://img.shields.io/github/last-commit/oddbytes/adventjs?style=flat-square)
+- [PedroChaparro/adventJS](https://github.com/PedroChaparro/adventJS) ![Last commit](https://img.shields.io/github/last-commit/PedroChaparro/adventJS?style=flat-square)
 - [pmareke/adventJS](https://github.com/pmareke/adventJS) ![Last commit](https://img.shields.io/github/last-commit/pmareke/adventJS?style=flat-square)
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [tomtobac/adventjs](https://github.com/tomtobac/adventjs) ![Last commit](https://img.shields.io/github/last-commit/tomtobac/adventjs?style=flat-square)
-- [PedroChaparro/adventJS](https://github.com/PedroChaparro/adventJS) ![Last commit](https://img.shields.io/github/last-commit/PedroChaparro/adventJS?style=flat-square)
-- [juanpomares/Exercises-AdventJS](https://github.com/juanpomares/Exercises-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpomares/Exercises-AdventJS?style=flat-square)
 
 ## 🤝 Contributing
 
