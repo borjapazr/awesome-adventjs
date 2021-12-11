@@ -20,6 +20,7 @@
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [tomtobac/adventjs](https://github.com/tomtobac/adventjs) ![Last commit](https://img.shields.io/github/last-commit/tomtobac/adventjs?style=flat-square)
 - [PedroChaparro/adventJS](https://github.com/PedroChaparro/adventJS) ![Last commit](https://img.shields.io/github/last-commit/PedroChaparro/adventJS?style=flat-square)
+- [juanpomares/Exercises-AdventJS](https://github.com/juanpomares/Exercises-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpomares/Exercises-AdventJS?style=flat-square)
 
 ## 🤝 Contributing
 
