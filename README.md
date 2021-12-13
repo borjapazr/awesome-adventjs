@@ -9,11 +9,13 @@
 > ⚠️ **WARNING**: All of these likely contain spoilers.
 
 - [aanton/adventjs](https://github.com/aanton/adventjs) ![Last commit](https://img.shields.io/github/last-commit/aanton/adventjs?style=flat-square)
+- [amarin59/adventjs2021](https://github.com/amarin59/adventjs2021) ![Last commit](https://img.shields.io/github/last-commit/amarin59/adventjs2021?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [chebetos/adventjs](https://github.com/chebetos/adventjs) ![Last commit](https://img.shields.io/github/last-commit/chebetos/adventjs?style=flat-square)
 - [daviidmm/adventjs](https://github.com/daviidmm/adventjs) ![Last commit](https://img.shields.io/github/last-commit/daviidmm/adventjs?style=flat-square)
 - [erickgtzh/adventjs](https://github.com/erickgtzh/adventjs) ![Last commit](https://img.shields.io/github/last-commit/erickgtzh/adventjs?style=flat-square)
 - [flipasg/adventjs](https://github.com/flipasg/adventjs) ![Last commit](https://img.shields.io/github/last-commit/flipasg/adventjs?style=flat-square)
+- [Jojansantia/AdventjsChallenges](https://github.com/Jojansantia/AdventjsChallenges) ![Last commit](https://img.shields.io/github/last-commit/Jojansantia/AdventjsChallenges?style=flat-square)
 - [juanpomares/Exercises-AdventJS](https://github.com/juanpomares/Exercises-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpomares/Exercises-AdventJS?style=flat-square)
 - [merino-jorge/adventJS](https://github.com/merino-jorge/adventJS) ![Last commit](https://img.shields.io/github/last-commit/merino-jorge/adventJS?style=flat-square)
 - [monicatvera/25-retos-adventJS](https://github.com/monicatvera/25-retos-adventJS) ![Last commit](https://img.shields.io/github/last-commit/monicatvera/25-retos-adventJS?style=flat-square)
