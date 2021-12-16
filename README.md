@@ -6,7 +6,7 @@
 
 ### 🕹️ Challenges
 
-|  #  |                  Challenge                   | Difficulty[^1] |                 Solution                  |
+|  #  |                  Challenge                   | Difficulty[^1] |                Description                |
 | :-: | :------------------------------------------: | :------------: | :---------------------------------------: |
 | 01  |         Contando ovejas para dormir          |       🟢       | [See](https://adventjs.dev/challenges/01) |
 | 02  |     ¡Ayuda al elfo a listar los regalos!     |       🟢       | [See](https://adventjs.dev/challenges/02) |
