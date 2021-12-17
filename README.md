@@ -28,6 +28,7 @@
 | 14  |          En busca del reno perdido           |       🟠       | [See](https://adventjs.dev/challenges/14) |
 | 15  |              El salto perfecto               |       🟠       | [See](https://adventjs.dev/challenges/15) |
 | 16  |          Descifrando los números...          |       🟢       | [See](https://adventjs.dev/challenges/16) |
+| 17  |  La locura de enviar paquetes en esta época  |       🔴       | [See](https://adventjs.dev/challenges/17) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
 
