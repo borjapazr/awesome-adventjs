@@ -3,7 +3,7 @@
 ![adventJS](https://i.imgur.com/Yg6NUlS.png)
 
 <p align="center">
-🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev"><b>adventJS</b></a> 🚀
+  <h3>🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev"><b>adventJS</b></a> 🚀</h3>
 </p>
 
 ## 🦠 2021
