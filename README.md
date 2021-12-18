@@ -29,6 +29,7 @@
 | 15  |              El salto perfecto               |       🟠       | [See](https://adventjs.dev/challenges/15) |
 | 16  |          Descifrando los números...          |       🟢       | [See](https://adventjs.dev/challenges/16) |
 | 17  |  La locura de enviar paquetes en esta época  |       🔴       | [See](https://adventjs.dev/challenges/17) |
+| 18  |     El sistema operativo de Santa Claus      |       🟢       | [See](https://adventjs.dev/challenges/18) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
 
