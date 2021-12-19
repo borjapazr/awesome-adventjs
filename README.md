@@ -30,6 +30,7 @@
 | 16  |          Descifrando los números...          |       🟢       | [Show](https://adventjs.dev/challenges/16) |
 | 17  |  La locura de enviar paquetes en esta época  |       🔴       | [Show](https://adventjs.dev/challenges/17) |
 | 18  |     El sistema operativo de Santa Claus      |       🟢       | [Show](https://adventjs.dev/challenges/18) |
+| 19  |     ¿Qué deberíamos aprender en Platzi?      |       🟠       | [Show](https://adventjs.dev/challenges/19) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
 
