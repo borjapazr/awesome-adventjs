@@ -33,7 +33,7 @@
 | 19  |     ¿Qué deberíamos aprender en Platzi?      |       🟠       | [Show](https://adventjs.dev/challenges/19) |
 | 20  |        ¿Una carta de pangramas? ¡QUÉ!        |       🟢       | [Show](https://adventjs.dev/challenges/20) |
 | 21  |           La ruta con los regalos            |       🔴       | [Show](https://adventjs.dev/challenges/21) |
-| 22  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/22) |
+| 22  |     ¿Cuantos adornos necesita el árbol?      |       🟠       | [Show](https://adventjs.dev/challenges/22) |
 | 23  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/23) |
 | 20  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/24) |
 | 25  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/25) |
