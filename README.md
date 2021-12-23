@@ -35,7 +35,7 @@
 | 21  |                      La ruta con los regalos                      |       🔴       | [Show](https://adventjs.dev/challenges/21) |
 | 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [Show](https://adventjs.dev/challenges/22) |
 | 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟠       | [Show](https://adventjs.dev/challenges/23) |
-| 20  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/24) |
+| 24  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/24) |
 | 25  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/25) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
