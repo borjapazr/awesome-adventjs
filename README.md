@@ -10,33 +10,33 @@
 
 ### 🕹️ Challenges
 
-|  #  |                  Challenge                   | Difficulty[^1] |                Description                 |
-| :-: | :------------------------------------------: | :------------: | :----------------------------------------: |
-| 01  |         Contando ovejas para dormir          |       🟢       | [Show](https://adventjs.dev/challenges/01) |
-| 02  |     ¡Ayuda al elfo a listar los regalos!     |       🟢       | [Show](https://adventjs.dev/challenges/02) |
-| 03  |    El Grinch quiere fastidiar la Navidad     |       🟠       | [Show](https://adventjs.dev/challenges/03) |
-| 04  |    ¡Es hora de poner la navidad en casa!     |       🟠       | [Show](https://adventjs.dev/challenges/04) |
-| 05  |      Contando los días para los regalos      |       🟢       | [Show](https://adventjs.dev/challenges/05) |
-| 06  |        Rematando los exámenes finales        |       🟠       | [Show](https://adventjs.dev/challenges/06) |
-| 07  |          Buscando en el almacén...           |       🟠       | [Show](https://adventjs.dev/challenges/07) |
-| 08  |        La locura de las criptomonedas        |       🟠       | [Show](https://adventjs.dev/challenges/08) |
-| 09  |       Agrupando cosas automáticamente        |       🔴       | [Show](https://adventjs.dev/challenges/09) |
-| 10  |            La máquina del cambio             |       🔴       | [Show](https://adventjs.dev/challenges/10) |
-| 11  | ¿Vale la pena la tarjeta fidelidad del cine? |       🟠       | [Show](https://adventjs.dev/challenges/11) |
-| 12  |   La ruta perfecta para dejar los regalos    |       🔴       | [Show](https://adventjs.dev/challenges/12) |
-| 13  |       Envuelve regalos con asteriscos        |       🟢       | [Show](https://adventjs.dev/challenges/13) |
-| 14  |          En busca del reno perdido           |       🟠       | [Show](https://adventjs.dev/challenges/14) |
-| 15  |              El salto perfecto               |       🟠       | [Show](https://adventjs.dev/challenges/15) |
-| 16  |          Descifrando los números...          |       🟢       | [Show](https://adventjs.dev/challenges/16) |
-| 17  |  La locura de enviar paquetes en esta época  |       🔴       | [Show](https://adventjs.dev/challenges/17) |
-| 18  |     El sistema operativo de Santa Claus      |       🟢       | [Show](https://adventjs.dev/challenges/18) |
-| 19  |     ¿Qué deberíamos aprender en Platzi?      |       🟠       | [Show](https://adventjs.dev/challenges/19) |
-| 20  |        ¿Una carta de pangramas? ¡QUÉ!        |       🟢       | [Show](https://adventjs.dev/challenges/20) |
-| 21  |           La ruta con los regalos            |       🔴       | [Show](https://adventjs.dev/challenges/21) |
-| 22  |     ¿Cuántos adornos necesita el árbol?      |       🟠       | [Show](https://adventjs.dev/challenges/22) |
-| 23  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/23) |
-| 20  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/24) |
-| 25  |                      -                       |       -        | [Show](https://adventjs.dev/challenges/25) |
+|  #  |                             Challenge                             | Difficulty[^1] |                Description                 |
+| :-: | :---------------------------------------------------------------: | :------------: | :----------------------------------------: |
+| 01  |                    Contando ovejas para dormir                    |       🟢       | [Show](https://adventjs.dev/challenges/01) |
+| 02  |               ¡Ayuda al elfo a listar los regalos!                |       🟢       | [Show](https://adventjs.dev/challenges/02) |
+| 03  |               El Grinch quiere fastidiar la Navidad               |       🟠       | [Show](https://adventjs.dev/challenges/03) |
+| 04  |               ¡Es hora de poner la navidad en casa!               |       🟠       | [Show](https://adventjs.dev/challenges/04) |
+| 05  |                Contando los días para los regalos                 |       🟢       | [Show](https://adventjs.dev/challenges/05) |
+| 06  |                  Rematando los exámenes finales                   |       🟠       | [Show](https://adventjs.dev/challenges/06) |
+| 07  |                     Buscando en el almacén...                     |       🟠       | [Show](https://adventjs.dev/challenges/07) |
+| 08  |                  La locura de las criptomonedas                   |       🟠       | [Show](https://adventjs.dev/challenges/08) |
+| 09  |                  Agrupando cosas automáticamente                  |       🔴       | [Show](https://adventjs.dev/challenges/09) |
+| 10  |                       La máquina del cambio                       |       🔴       | [Show](https://adventjs.dev/challenges/10) |
+| 11  |           ¿Vale la pena la tarjeta fidelidad del cine?            |       🟠       | [Show](https://adventjs.dev/challenges/11) |
+| 12  |              La ruta perfecta para dejar los regalos              |       🔴       | [Show](https://adventjs.dev/challenges/12) |
+| 13  |                  Envuelve regalos con asteriscos                  |       🟢       | [Show](https://adventjs.dev/challenges/13) |
+| 14  |                     En busca del reno perdido                     |       🟠       | [Show](https://adventjs.dev/challenges/14) |
+| 15  |                         El salto perfecto                         |       🟠       | [Show](https://adventjs.dev/challenges/15) |
+| 16  |                    Descifrando los números...                     |       🟢       | [Show](https://adventjs.dev/challenges/16) |
+| 17  |            La locura de enviar paquetes en esta época             |       🔴       | [Show](https://adventjs.dev/challenges/17) |
+| 18  |                El sistema operativo de Santa Claus                |       🟢       | [Show](https://adventjs.dev/challenges/18) |
+| 19  |                ¿Qué deberíamos aprender en Platzi?                |       🟠       | [Show](https://adventjs.dev/challenges/19) |
+| 20  |                  ¿Una carta de pangramas? ¡QUÉ!                   |       🟢       | [Show](https://adventjs.dev/challenges/20) |
+| 21  |                      La ruta con los regalos                      |       🔴       | [Show](https://adventjs.dev/challenges/21) |
+| 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [Show](https://adventjs.dev/challenges/22) |
+| 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟠       | [Show](https://adventjs.dev/challenges/23) |
+| 20  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/24) |
+| 25  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/25) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
 
