@@ -34,11 +34,11 @@
 | 20  |                  ¿Una carta de pangramas? ¡QUÉ!                   |       🟢       | [Show](https://adventjs.dev/challenges/20) |
 | 21  |                      La ruta con los regalos                      |       🔴       | [Show](https://adventjs.dev/challenges/21) |
 | 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [Show](https://adventjs.dev/challenges/22) |
-| 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟠       | [Show](https://adventjs.dev/challenges/23) |
-| 24  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/24) |
+| 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟣       | [Show](https://adventjs.dev/challenges/23) |
+| 24  |                   Comparando árboles de Navidad                   |       🟠       | [Show](https://adventjs.dev/challenges/24) |
 | 25  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/25) |
 
-[^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard
+[^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard
 
 ### 🧑‍💻 Solutions
 
