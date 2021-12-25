@@ -36,7 +36,7 @@
 | 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [Show](https://adventjs.dev/challenges/22) |
 | 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟣       | [Show](https://adventjs.dev/challenges/23) |
 | 24  |                   Comparando árboles de Navidad                   |       🟠       | [Show](https://adventjs.dev/challenges/24) |
-| 25  |                                 -                                 |       -        | [Show](https://adventjs.dev/challenges/25) |
+| 25  |            El último juego y hasta el año que viene 👋            |       🟠       | [Show](https://adventjs.dev/challenges/25) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard
 
