@@ -47,6 +47,7 @@
 - [aanton/adventjs](https://github.com/aanton/adventjs) ![Last commit](https://img.shields.io/github/last-commit/aanton/adventjs?style=flat-square)
 - [amarin59/adventjs2021](https://github.com/amarin59/adventjs2021) ![Last commit](https://img.shields.io/github/last-commit/amarin59/adventjs2021?style=flat-square)
 - [angizerep/adventJS](https://github.com/angizerep/adventJS) ![Last commit](https://img.shields.io/github/last-commit/angizerep/adventJS?style=flat-square)
+- [antoniogiroz/advent-js-midudev-2021](https://github.com/antoniogiroz/advent-js-midudev-2021) ![Last commit](https://img.shields.io/github/last-commit/antoniogiroz/advent-js-midudev-2021?style=flat-square)
 - [arialdev/adventjs](https://github.com/arialdev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/arialdev/adventjs?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [Carlos-Angel/adventjs-challenges](https://github.com/Carlos-Angel/adventjs-challenges) ![Last commit](https://img.shields.io/github/last-commit/Carlos-Angel/adventjs-challenges?style=flat-square)
