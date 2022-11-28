@@ -78,6 +78,7 @@
 - [PaulJDev/adventjs](https://github.com/PaulJDev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/PaulJDev/adventjs?style=flat-square)
 - [PedroChaparro/adventJS](https://github.com/PedroChaparro/adventJS) ![Last commit](https://img.shields.io/github/last-commit/PedroChaparro/adventJS?style=flat-square)
 - [pmareke/adventJS](https://github.com/pmareke/adventJS) ![Last commit](https://img.shields.io/github/last-commit/pmareke/adventJS?style=flat-square)
+- [RicardoxDev/adventJS](https://github.com/RicardoxDev/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RicardoxDev/adventJS?style=flat-square)
 - [RobertoVillegas/adventJS](https://github.com/RobertoVillegas/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RobertoVillegas/adventJS?style=flat-square)
 - [Savecoders/Solve-AdventJS](https://github.com/Savecoders/Solve-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/Savecoders/Solve-AdventJS?style=flat-square)
 - [sergio1599/AdventJS](https://github.com/sergio1599/AdventJS) ![Last commit](https://img.shields.io/github/last-commit/sergio1599/AdventJS?style=flat-square)
