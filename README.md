@@ -112,6 +112,7 @@ This repository is a collection of repositories with the solutions to the challe
 > ⚠️ **WARNING**: All of these likely contain spoilers.
 
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
+- [PChaparro/adventjs-2022](https://github.com/PChaparro/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PChaparro/adventjs-2022?style=flat-square)
 
 </details>
 
