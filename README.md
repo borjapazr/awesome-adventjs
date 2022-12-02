@@ -111,7 +111,7 @@ This repository is a collection of repositories with the solutions to the challe
 ### 🧑‍💻 Solutions
 
 > ⚠️ **WARNING**: All of these likely contain spoilers.
-
+- [alexisg24/adventjs-2022-challenge](https://github.com/alexisg24/adventjs-2022-challenge) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [PChaparro/adventjs-2022](https://github.com/PChaparro/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PChaparro/adventjs-2022?style=flat-square)
 - [ruugii/Awesome-adventjs](https://github.com/ruugii/Awesome-adventjs) ![Last commit](https://img.shields.io/github/last-commit/ruugii/Awesome-adventjs?style=flat-square)
