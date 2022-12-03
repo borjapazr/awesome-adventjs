@@ -56,6 +56,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [arialdev/adventjs](https://github.com/arialdev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/arialdev/adventjs?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [Carlos-Angel/adventjs-challenges](https://github.com/Carlos-Angel/adventjs-challenges) ![Last commit](https://img.shields.io/github/last-commit/Carlos-Angel/adventjs-challenges?style=flat-square)
+- [carseven/adventJS](https://github.com/carseven/adventJS) ![Last commit](https://img.shields.io/github/last-commit/carseven/adventJS?style=flat-square)
 - [chebetos/adventjs](https://github.com/chebetos/adventjs) ![Last commit](https://img.shields.io/github/last-commit/chebetos/adventjs?style=flat-square)
 - [Cristhianbh98/adventjs2021](https://github.com/Cristhianbh98/adventjs2021) ![Last commit](https://img.shields.io/github/last-commit/Cristhianbh98/adventjs2021?style=flat-square)
 - [DamianCabrio/adventjs2021](https://github.com/DamianCabrio/adventjs2021) ![Last commit](https://img.shields.io/github/last-commit/DamianCabrio/adventjs2021?style=flat-square)
@@ -92,7 +93,6 @@ This repository is a collection of repositories with the solutions to the challe
 - [wocampodev/adventjs-challenges](https://github.com/wocampodev/adventjs-challenges) ![Last commit](https://img.shields.io/github/last-commit/wocampodev/adventjs-challenges?style=flat-square)
 - [xavikortes/adventjs2021](https://github.com/xavikortes/adventjs2021) ![Last commit](https://img.shields.io/github/last-commit/xavikortes/adventjs2021?style=flat-square)
 - [z0r3f/adventjs.dev](https://github.com/z0r3f/adventjs.dev) ![Last commit](https://img.shields.io/github/last-commit/z0r3f/adventjs.dev?style=flat-square)
-- [carseven/adventJS](https://github.com/carseven/adventJS) ![Last commit](https://img.shields.io/github/last-commit/carseven/adventJS?style=flat-square)
 
 </details>
 
@@ -104,18 +104,28 @@ This repository is a collection of repositories with the solutions to the challe
 
 ### 🕹️ Challenges
 
-|  #  |              Challenge              | Difficulty[^1] |                  Description                   |
-| :-: | :---------------------------------: | :------------: | :--------------------------------------------: |
-| 01  | Automating Christmas gift wrapping! |       🟢       | [Show](https://adventjs.dev/challenges/2022/1) |
+|  #  |               Challenge                | Difficulty[^1] |                  Description                   |
+| :-: | :------------------------------------: | :------------: | :--------------------------------------------: |
+| 01  |  Automating Christmas gift wrapping!   |       🟢       | [Show](https://adventjs.dev/challenges/2022/1) |
+| 02  | Nobody wants to do extra hours at work |       🟢       | [Show](https://adventjs.dev/challenges/2022/2) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard
 
 ### 🧑‍💻 Solutions
 
 > ⚠️ **WARNING**: All of these likely contain spoilers.
+
 - [alexisg24/adventjs-2022-challenge](https://github.com/alexisg24/adventjs-2022-challenge) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
+- [carseven/adventJS](https://github.com/carseven/adventJS) ![Last commit](https://img.shields.io/github/last-commit/carseven/adventJS?style=flat-square)
+- [cosmoart/adventJS](https://github.com/cosmoart/adventJS) ![Last commit](https://img.shields.io/github/last-commit/cosmoart/adventJS?style=flat-square)
+- [davidsu06/AdventJSChallenges](https://github.com/davidsu06/AdventJSChallenges) ![Last commit](https://img.shields.io/github/last-commit/davidsu06/AdventJSChallenges?style=flat-square)
+- [deividgp/adventjs-2022](https://github.com/deividgp/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/deividgp/adventjs-2022?style=flat-square)
+- [HolaSoyGonZzA/adventjs-2022](https://github.com/HolaSoyGonZzA/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/HolaSoyGonZzA/adventjs-2022?style=flat-square)
 - [JeremyAyza/AdventJS-2022](https://github.com/JeremyAyza/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/AdventJS-2022?style=flat-square)
+- [Malcak/adventjs](https://github.com/Malcak/adventjs) ![Last commit](https://img.shields.io/github/last-commit/Malcak/adventjs?style=flat-square)
+- [marcode24/challenges-and-exercises](https://github.com/marcode24/challenges-and-exercises) ![Last commit](https://img.shields.io/github/last-commit/marcode24/challenges-and-exercises?style=flat-square)
+- [MarioParrilla/AdventJS2022](https://github.com/MarioParrilla/AdventJS2022) ![Last commit](https://img.shields.io/github/last-commit/MarioParrilla/AdventJS2022?style=flat-square)
 - [PChaparro/adventjs-2022](https://github.com/PChaparro/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PChaparro/adventjs-2022?style=flat-square)
 - [ruugii/Awesome-adventjs](https://github.com/ruugii/Awesome-adventjs) ![Last commit](https://img.shields.io/github/last-commit/ruugii/Awesome-adventjs?style=flat-square)
 - [wayaba/adventJS-2022](https://github.com/wayaba/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/wayaba/adventJS-2022?style=flat-square)
