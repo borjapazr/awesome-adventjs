@@ -67,6 +67,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [GabrieleScano/adventJS](https://github.com/GabrieleScano/adventJS) ![Last commit](https://img.shields.io/github/last-commit/GabrieleScano/adventJS?style=flat-square)
 - [ismaeldevmw/adventjs-2021](https://github.com/ismaeldevmw/adventjs-2021) ![Last commit](https://img.shields.io/github/last-commit/ismaeldevmw/adventjs-2021?style=flat-square)
 - [jacintoaczz/adventjs-2021](https://github.com/jacintoaczz/adventjs-2021) ![Last commit](https://img.shields.io/github/last-commit/jacintoaczz/adventjs-2021?style=flat-square)
+- [JeremyAyza/JereyAyza-AdventJS-MiduDev](https://github.com/JeremyAyza/JereyAyza-AdventJS-MiduDev) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/JereyAyza-AdventJS-MiduDev?style=flat-square)
 - [Jojansantia/AdventjsChallenges](https://github.com/Jojansantia/AdventjsChallenges) ![Last commit](https://img.shields.io/github/last-commit/Jojansantia/AdventjsChallenges?style=flat-square)
 - [juanpablosolana/adventJS](https://github.com/juanpablosolana/adventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpablosolana/adventJS?style=flat-square)
 - [juanpomares/Exercises-AdventJS](https://github.com/juanpomares/Exercises-AdventJS) ![Last commit](https://img.shields.io/github/last-commit/juanpomares/Exercises-AdventJS?style=flat-square)
@@ -113,6 +114,7 @@ This repository is a collection of repositories with the solutions to the challe
 > ⚠️ **WARNING**: All of these likely contain spoilers.
 
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
+- [JeremyAyza/AdventJS-2022](https://github.com/JeremyAyza/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/AdventJS-2022?style=flat-square)
 - [PChaparro/adventjs-2022](https://github.com/PChaparro/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PChaparro/adventjs-2022?style=flat-square)
 - [ruugii/Awesome-adventjs](https://github.com/ruugii/Awesome-adventjs) ![Last commit](https://img.shields.io/github/last-commit/ruugii/Awesome-adventjs?style=flat-square)
 - [wayaba/adventJS-2022](https://github.com/wayaba/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/wayaba/adventJS-2022?style=flat-square)
