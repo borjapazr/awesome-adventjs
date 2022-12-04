@@ -128,6 +128,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [deividgp/adventjs-2022](https://github.com/deividgp/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/deividgp/adventjs-2022?style=flat-square)
 - [HolaSoyGonZzA/adventjs-2022](https://github.com/HolaSoyGonZzA/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/HolaSoyGonZzA/adventjs-2022?style=flat-square)
 - [JeremyAyza/AdventJS-2022](https://github.com/JeremyAyza/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/AdventJS-2022?style=flat-square)
+- [johansneirap/adventjs](https://github.com/johansneirap/adventjs) ![Last commit](https://img.shields.io/github/last-commit/johansneirap/adventjs?style=flat-square)
 - [marcode24/challenges-and-exercises](https://github.com/marcode24/challenges-and-exercises) ![Last commit](https://img.shields.io/github/last-commit/marcode24/challenges-and-exercises?style=flat-square)
 - [MarioParrilla/AdventJS2022](https://github.com/MarioParrilla/AdventJS2022) ![Last commit](https://img.shields.io/github/last-commit/MarioParrilla/AdventJS2022?style=flat-square)
 - [marsidev/adventjs](https://github.com/marsidev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/marsidev/adventjs?style=flat-square)
