@@ -130,6 +130,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [davidsu06/AdventJSChallenges](https://github.com/davidsu06/AdventJSChallenges) ![Last commit](https://img.shields.io/github/last-commit/davidsu06/AdventJSChallenges?style=flat-square)
 - [deividgp/adventjs-2022](https://github.com/deividgp/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/deividgp/adventjs-2022?style=flat-square)
 - [eudaldgr/adventjs-2022-challenge](https://github.com/eudaldgr/adventjs-2022-challenge) ![Last commit](https://img.shields.io/github/last-commit/eudaldgr/adventjs-2022-challenge?style=flat-square)
+- [hectorOliSan/adventJS-2022](https://github.com/hectorOliSan/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/hectorOliSan/adventJS-2022?style=flat-square)
 - [HolaSoyGonZzA/adventjs-2022](https://github.com/HolaSoyGonZzA/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/HolaSoyGonZzA/adventjs-2022?style=flat-square)
 - [JeremyAyza/AdventJS-2022](https://github.com/JeremyAyza/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/AdventJS-2022?style=flat-square)
 - [johansneirap/adventjs](https://github.com/johansneirap/adventjs) ![Last commit](https://img.shields.io/github/last-commit/johansneirap/adventjs?style=flat-square)
