@@ -120,6 +120,7 @@ This repository is a collection of repositories with the solutions to the challe
 
 > ⚠️ **WARNING**: All of these likely contain spoilers.
 
+- [achalogy/advent-js-2022](https://github.com/achalogy/advent-js-2022) ![Last commit](https://img.shields.io/github/last-commit/achalogy/advent-js-2022?style=flat-square)
 - [alexisg24/adventjs-2022-challenge](https://github.com/alexisg24/adventjs-2022-challenge) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [Atticus64/adventjs](https://github.com/Atticus64/adventjs) ![Last commit](https://img.shields.io/github/last-commit/Atticus64/adventjs?style=flat-square)
 - [borjapazr/adventjs-solutions](https://github.com/borjapazr/adventjs-solutions) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
@@ -141,7 +142,6 @@ This repository is a collection of repositories with the solutions to the challe
 - [RicardoxDev/adventJS](https://github.com/RicardoxDev/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RicardoxDev/adventJS?style=flat-square)
 - [ruugii/Awesome-adventjs](https://github.com/ruugii/Awesome-adventjs) ![Last commit](https://img.shields.io/github/last-commit/ruugii/Awesome-adventjs?style=flat-square)
 - [wayaba/adventJS-2022](https://github.com/wayaba/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/wayaba/adventJS-2022?style=flat-square)
-- [achalogy/advent-js-2022](https://github.com/achalogy/advent-js-2022) ![Last commit](https://img.shields.io/github/last-commit/achalogy/advent-js-2022?style=flat-square)
 
 </details>
 
