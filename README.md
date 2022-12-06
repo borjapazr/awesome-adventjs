@@ -141,7 +141,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [RicardoxDev/adventJS](https://github.com/RicardoxDev/adventJS) ![Last commit](https://img.shields.io/github/last-commit/RicardoxDev/adventJS?style=flat-square)
 - [ruugii/Awesome-adventjs](https://github.com/ruugii/Awesome-adventjs) ![Last commit](https://img.shields.io/github/last-commit/ruugii/Awesome-adventjs?style=flat-square)
 - [wayaba/adventJS-2022](https://github.com/wayaba/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/wayaba/adventJS-2022?style=flat-square)
-- [achalogy/advent-js-2022]([https://github.com/username/repository](https://github.com/achalogy/advent-js-2022)) ![Last commit](https://img.shields.io/github/last-commit/achalogu/advent-js-2022?style=flat-square)
+- [achalogy/advent-js-2022](https://github.com/achalogy/advent-js-2022) ![Last commit](https://img.shields.io/github/last-commit/achalogy/advent-js-2022?style=flat-square)
 
 </details>
 
