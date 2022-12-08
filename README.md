@@ -116,6 +116,7 @@ This repository is a collection of repositories with the solutions to the challe
 | 05  |         Optimizing Santa's trips         |       🔴       | [Show](https://adventjs.dev/challenges/2022/5) |
 | 06  |        Creating xmas decorations         |       🟠       | [Show](https://adventjs.dev/challenges/2022/6) |
 | 07  |          Doing gifts inventory           |       🟢       | [Show](https://adventjs.dev/challenges/2022/7) |
+| 08  |           We need a mechanic!            |       🟠       | [Show](https://adventjs.dev/challenges/2022/8) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
