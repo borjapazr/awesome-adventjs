@@ -140,6 +140,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [FlamesX-128/adventjs](https://github.com/FlamesX-128/adventjs) ![Last commit](https://img.shields.io/github/last-commit/FlamesX-128/adventjs?style=flat-square)
 - [hectorOliSan/adventJS-2022](https://github.com/hectorOliSan/adventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/hectorOliSan/adventJS-2022?style=flat-square)
 - [HolaSoyGonZzA/adventjs-2022](https://github.com/HolaSoyGonZzA/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/HolaSoyGonZzA/adventjs-2022?style=flat-square)
+- [Javieer57/AdventJS-2022](https://github.com/Javieer57/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/Javieer57/AdventJS-2022?style=flat-square)
 - [JeremyAyza/AdventJS-2022](https://github.com/JeremyAyza/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/JeremyAyza/AdventJS-2022?style=flat-square)
 - [johansneirap/adventjs](https://github.com/johansneirap/adventjs) ![Last commit](https://img.shields.io/github/last-commit/johansneirap/adventjs?style=flat-square)
 - [marcode24/challenges-and-exercises](https://github.com/marcode24/challenges-and-exercises) ![Last commit](https://img.shields.io/github/last-commit/marcode24/challenges-and-exercises?style=flat-square)
