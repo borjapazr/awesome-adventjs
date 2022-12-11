@@ -120,6 +120,20 @@ This repository is a collection of repositories with the solutions to the challe
 | 08  |           We need a mechanic!            |       🟠       | [Show](https://adventjs.dev/challenges/2022/8)  |
 | 09  |            Crazy Xmas lights             |       🟢       | [Show](https://adventjs.dev/challenges/2022/9)  |
 | 10  |       The Santa Claus sleigh jump        |       🟠       | [Show](https://adventjs.dev/challenges/2022/10) |
+| 11  |       Santa Claus is Scrum Master        |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) |
+| 12  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/12) |
+| 13  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/13) |
+| 14  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/14) |
+| 15  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/15) |
+| 16  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/16) |
+| 17  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/17) |
+| 18  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/18) |
+| 19  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/19) |
+| 20  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/20) |
+| 21  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/21) |
+| 22  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/22) |
+| 23  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/23) |
+| 24  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/24) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
