@@ -121,7 +121,7 @@ This repository is a collection of repositories with the solutions to the challe
 | 09  |            Crazy Xmas lights             |       🟢       | [Show](https://adventjs.dev/challenges/2022/9)  |
 | 10  |       The Santa Claus sleigh jump        |       🟠       | [Show](https://adventjs.dev/challenges/2022/10) |
 | 11  |       Santa Claus is Scrum Master        |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) |
-| 12  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/12) |
+| 12  |          Electric sleighs, wow!          |       🟠       | [Show](https://adventjs.dev/challenges/2022/12) |
 | 13  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/13) |
 | 14  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/14) |
 | 15  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/15) |
