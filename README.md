@@ -123,7 +123,7 @@ This repository is a collection of repositories with the solutions to the challe
 | 11  |       Santa Claus is Scrum Master        |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) |
 | 12  |          Electric sleighs, wow!          |       🟠       | [Show](https://adventjs.dev/challenges/2022/12) |
 | 13  |      Backups for Santa Claus files       |       🟢       | [Show](https://adventjs.dev/challenges/2022/13) |
-| 14  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/14) |
+| 14  |              The best path               |       🟠       | [Show](https://adventjs.dev/challenges/2022/14) |
 | 15  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/15) |
 | 16  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/16) |
 | 17  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/17) |
