@@ -124,8 +124,8 @@ This repository is a collection of repositories with the solutions to the challe
 | 12  |          Electric sleighs, wow!          |       🟠       | [Show](https://adventjs.dev/challenges/2022/12) |
 | 13  |      Backups for Santa Claus files       |       🟢       | [Show](https://adventjs.dev/challenges/2022/13) |
 | 14  |              The best path               |       🟠       | [Show](https://adventjs.dev/challenges/2022/14) |
-| 15  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/15) |
-| 16  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/16) |
+| 15  |      Decorating the Christmas tree       |       🟠       | [Show](https://adventjs.dev/challenges/2022/15) |
+| 16  |       Fixing Santa Claus' letters        |       🔴       | [Show](https://adventjs.dev/challenges/2022/16) |
 | 17  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/17) |
 | 18  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/18) |
 | 19  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/19) |
