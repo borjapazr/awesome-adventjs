@@ -128,10 +128,10 @@ This repository is a collection of repositories with the solutions to the challe
 | 16  |       Fixing Santa Claus' letters        |       🔴       | [Show](https://adventjs.dev/challenges/2022/16) |
 | 17  |          Carrying gifts in bags          |       🟠       | [Show](https://adventjs.dev/challenges/2022/17) |
 | 18  |            We ran out of ink!            |       🟢       | [Show](https://adventjs.dev/challenges/2022/18) |
-| 19  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/19) |
-| 20  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/20) |
-| 21  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/21) |
-| 22  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/22) |
+| 19  |            Sorting the toys!             |       🟢       | [Show](https://adventjs.dev/challenges/2022/19) |
+| 20  |          More challenging trips          |       🔴       | [Show](https://adventjs.dev/challenges/2022/20) |
+| 21  |         Creating the gifts table         |       🟠       | [Show](https://adventjs.dev/challenges/2022/21) |
+| 22  |            The lights in sync            |       🟢       | [Show](https://adventjs.dev/challenges/2022/22) |
 | 23  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/23) |
 | 24  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/24) |
 
