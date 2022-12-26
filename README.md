@@ -143,6 +143,7 @@ This repository is a collection of repositories with the solutions to the challe
 
 - [aanton/adventjs-2022](https://github.com/aanton/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/aanton/adventjs-2022?style=flat-square)
 - [achalogy/advent-js-2022](https://github.com/achalogy/advent-js-2022) ![Last commit](https://img.shields.io/github/last-commit/achalogy/advent-js-2022?style=flat-square)
+- [AgosVenezia/AdventJS-2022](https://github.com/AgosVenezia/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/AgosVenezia/AdventJS-2022?style=flat-square)
 - [alexisg24/adventjs-2022-challenge](https://github.com/alexisg24/adventjs-2022-challenge) ![Last commit](https://img.shields.io/github/last-commit/borjapazr/adventjs-solutions?style=flat-square)
 - [arialdev/adventjs](https://github.com/arialdev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/arialdev/adventjs?style=flat-square)
 - [Atticus64/adventjs](https://github.com/Atticus64/adventjs) ![Last commit](https://img.shields.io/github/last-commit/Atticus64/adventjs?style=flat-square)
