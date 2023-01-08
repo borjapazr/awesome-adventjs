@@ -163,6 +163,7 @@ This repository is a collection of repositories with the solutions to the challe
 - [marcode24/challenges-and-exercises](https://github.com/marcode24/challenges-and-exercises) ![Last commit](https://img.shields.io/github/last-commit/marcode24/challenges-and-exercises?style=flat-square)
 - [MarioParrilla/AdventJS2022](https://github.com/MarioParrilla/AdventJS2022) ![Last commit](https://img.shields.io/github/last-commit/MarioParrilla/AdventJS2022?style=flat-square)
 - [marsidev/adventjs](https://github.com/marsidev/adventjs) ![Last commit](https://img.shields.io/github/last-commit/marsidev/adventjs?style=flat-square)
+- [NearApps/AdventJS-2022](https://github.com/NearApps/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/NearApps/AdventJS-2022?style=flat-square)
 - [PaulJDev/adventjs](https://github.com/PaulJDev/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PaulJDev/adventjs-2022?style=flat-square)
 - [PChaparro/adventjs-2022](https://github.com/PChaparro/adventjs-2022) ![Last commit](https://img.shields.io/github/last-commit/PChaparro/adventjs-2022?style=flat-square)
 - [rau2191/AdventJS-2022](https://github.com/rau2191/AdventJS-2022) ![Last commit](https://img.shields.io/github/last-commit/rau2191/AdventJS-2022?style=flat-square)
